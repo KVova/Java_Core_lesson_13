@@ -12,8 +12,8 @@ public class Application {
 		System.out.println("¬вед≥ть 5 щоб вивести конкретну фракц≥ю");
 		System.out.println("¬вед≥ть 6 щоб додати депутата в фракц≥ю");
 		System.out.println("¬вед≥ть 7 щоб видалити депутата з фракц≥њ");
-		System.out.println("¬вед≥ть 8 щоб вивести список хабарник≥в");
-		System.out.println("¬вед≥ть 9 щоб вивести найб≥льшого хабарника");
+		System.out.println("¬вед≥ть 8 щоб вивести список хабарник≥в ");
+		System.out.println("¬вед≥ть 9 щоб вивести найб≥льшого хабарника ");
 	}
 
 	public static void main(String[] args) {
